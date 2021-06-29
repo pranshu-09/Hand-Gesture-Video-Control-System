@@ -1,5 +1,12 @@
 # Hand-Gesture-Video-Control-System
 
+Through this project, we are able to control the Functionalities of YouTube or other Video Playback Applications like VLC, Window Media Player, etc. like Play, Pause, Forward/ Backward Playback, Full Screen and Control the Volume by using our Hand Gestures.
+
+### Library Used :
+* OpenCV
+* MediaPipe
+* Keyboard
+
 ## Hand Gestures for Video Control 
 
 ### 1. Backward Playback
