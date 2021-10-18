@@ -9,7 +9,7 @@ Through this project, we are able to control the Functionalities of YouTube or o
 
 ## Hand Landmarks plotted by MediaPipe Hands function
 
-<img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" width="200" height="200" />
+<img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" width="800" height="200" />
 
 ## Hand Gestures for Video Control 
 
