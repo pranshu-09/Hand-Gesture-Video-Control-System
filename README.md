@@ -7,6 +7,10 @@ Through this project, we are able to control the Functionalities of YouTube or o
 * MediaPipe
 * Keyboard
 
+## Hand Landmarks plotted by MediaPipe Hands function
+
+<img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" width="200" height="200" />
+
 ## Hand Gestures for Video Control 
 
 ### 1. Backward Playback
